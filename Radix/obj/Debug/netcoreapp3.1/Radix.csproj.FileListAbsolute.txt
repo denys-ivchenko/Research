@@ -1,0 +1,4 @@
+G:\Projects\Research\Radix\obj\Debug\netcoreapp3.1\Radix.GeneratedMSBuildEditorConfig.editorconfig
+G:\Projects\Research\Radix\obj\Debug\netcoreapp3.1\Radix.AssemblyInfoInputs.cache
+G:\Projects\Research\Radix\obj\Debug\netcoreapp3.1\Radix.AssemblyInfo.cs
+G:\Projects\Research\Radix\obj\Debug\netcoreapp3.1\Radix.csproj.CoreCompileInputs.cache

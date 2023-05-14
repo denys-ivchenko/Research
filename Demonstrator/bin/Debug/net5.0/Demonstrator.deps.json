@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Demonstrator/1.0.0": {
+        "dependencies": {
+          "SoftInWay.Numerics.Radix": "1.0.0"
+        },
+        "runtime": {
+          "Demonstrator.dll": {}
+        }
+      },
+      "SoftInWay.Numerics.Radix/1.0.0": {
+        "runtime": {
+          "SoftInWay.Numerics.Radix.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Demonstrator/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SoftInWay.Numerics.Radix/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

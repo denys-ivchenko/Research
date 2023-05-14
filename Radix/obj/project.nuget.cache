@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "4P/8tZMsi35NmTHgK8ixF9tcAVArM87EySRZP85r3BpP9UHphxM4xMve5OW6gIrA3Jn0khrz/LM45/Bkk318jQ==",
+  "success": true,
+  "projectFilePath": "G:\\Projects\\Research\\Radix\\Radix.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Denys\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Denys\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Denys\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

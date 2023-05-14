@@ -1,0 +1,12 @@
+G:\Projects\Research\Radix\obj\Debug\net5.0\Radix.GeneratedMSBuildEditorConfig.editorconfig
+G:\Projects\Research\Radix\obj\Debug\net5.0\Radix.AssemblyInfoInputs.cache
+G:\Projects\Research\Radix\obj\Debug\net5.0\Radix.AssemblyInfo.cs
+G:\Projects\Research\Radix\obj\Debug\net5.0\Radix.csproj.CoreCompileInputs.cache
+G:\Projects\Research\Radix\bin\Debug\net5.0\SoftInWay.Numerics.Radix.deps.json
+G:\Projects\Research\Radix\bin\Debug\net5.0\SoftInWay.Numerics.Radix.dll
+G:\Projects\Research\Radix\bin\Debug\net5.0\ref\SoftInWay.Numerics.Radix.dll
+G:\Projects\Research\Radix\bin\Debug\net5.0\SoftInWay.Numerics.Radix.pdb
+G:\Projects\Research\Radix\obj\Debug\net5.0\SoftInWay.Numerics.Radix.dll
+G:\Projects\Research\Radix\obj\Debug\net5.0\ref\SoftInWay.Numerics.Radix.dll
+G:\Projects\Research\Radix\obj\Debug\net5.0\SoftInWay.Numerics.Radix.pdb
+G:\Projects\Research\Radix\obj\Debug\net5.0\Radix.csproj.AssemblyReference.cache
